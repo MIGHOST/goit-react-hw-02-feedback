@@ -3,7 +3,7 @@ import './App.css';
 import Section from '../Section/Section';
 import FeedbackOptions from '../FeedbackOptions/FeedbackOptions';
 import Statistics from '../Statistics/Statistics';
-import FeedbackName from '../utils/FeedbackName';
+import FeedbackName from '../../utils/FeedbackName';
 import Notification from '../Notification/Notification';
 
 const options = Object.values(FeedbackName);
